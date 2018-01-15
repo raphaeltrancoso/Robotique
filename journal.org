@@ -1,0 +1,82 @@
+* vendredi 9 octobre 2015, 16:26:31 (UTC+0200)
+** Fait:
+   - Installer le logiciel de programmation visuelle LEGO.
+   - Installer le plugin LeJos pour Eclipse.
+** A faire:
+   - Faire tourner le moteur. //le boitier ev3 n'est pas reconnu par windows (recherche de plugin le permettant)
+   - Venir voir M. Regis-Gianas pour avoir un capteur.
+	
+	*plugin rdnis installé, demander capteur a Regis.
+	*documentation package lejos.hardware.sensor
+	
+* vendredi 23 octobre 2015
+
+** A faire:
+	- Finir montage du robot
+	- Tester les capteurs
+
+** Fait:
+	- Montage robot (90%)
+	
+	*Montage fait
+	*Code capteur de touché
+	*Problème pour créer de nouvelle class de de type lejos
+
+
+* Ven  6 nov 2015 16:29:52 CET
+	régler le problème de git, c'est-à-dire cloner le gitlab, créer un projet eclipse synchrone avec le git
+	tourver la solution pour déclancher les moteurs en même temps.
+	
+
+* Ven  4 déc 2015 16:33:05 CET
+FAIT
+	git ok
+	pour l'instant avance primitivement
+A FAIRE
+	etalonnage
+	faire un suivi de ligne
+BUT
+	consulter le site web du cours pour voir le sujet a realiser fin janvier
+
+
+* Ven 15 jan 2016 15:10:06 CET
+	- étalonnage à compléter et intégrer
+	- faire un suivi de ligne
+	- attention à la date butoir du 5 février...
+	- ne plus accumuler de retard pour ce projet, attention
+	- revenir vendredi 22 janvier avec des choses qui marchent
+
+* Ven 22 jan 2016 15:18:51 CET
+** FAIT
+	- suivi de ligne droite
+** A FAIRE
+	- modifier l'étalonnage pour lui faire apprendre les couleurs
+	- éviter les marches arrière
+
+* vendredi 26 février 2016, 14:34:00 (UTC+0100)
+** FAIT
+        - aller-retour fait
+        - avance plus vite entre les couleurs de ligne et de fond, se dandine moins
+** A FAIRE
+        - mémoriser le chemin à l'aller pour faire le retour
+        - nouveaux chemins
+
+* vendredi 18 mars 2016, 14:04:17 (UTC+0100)
+** FAIT
+        - mise à jour de l'étalonnage pour la lecture du code couleur
+          (pas commité)
+
+* vendredi 1 avril 2016
+** FAIT
+	- enregistrement du parcours (partiel)
+** A FAIRE:
+	- récupérer les données puis faire une petite application pour les visualiser
+
+Ven  8 avr 2016 15:35:32 CEST
+** A FAIRE
+	- visualiser le parcours enregistré
+	- déterminer en temps-réél si le robot est en ligne droite ou courbe à droite ou à gauche.
+
+Ven 20 mai 2016 15:06:57 CEST
+	- préparer la vidéo et la soutenance
+	- réparer les derniers bugs
